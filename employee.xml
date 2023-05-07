@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employee>
+    <age>23</age>
+    <email>raj@gmail.com</email>
+    <mobileNo>987654321</mobileNo>
+    <name>raj</name>
+</employee>
